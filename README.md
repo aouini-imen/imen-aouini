@@ -10,7 +10,7 @@
 ## 🚀 About Me
 💡 Passionate IT Supervisor with hands-on experience in managing and optimizing hotel IT infrastructures.  
 🔍 Strong focus on **network performance, security, and system reliability**.  
-⚡ Known for solving complex technical issues بسرعة و efficacité.  
+⚡ Known for solving complex technical issues et efficacité.  
 
 ---
 
