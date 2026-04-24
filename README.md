@@ -71,7 +71,7 @@ Zabbix / Grafana implementation for real-time monitoring
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/aouini-imen-075325202/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@example.com">
